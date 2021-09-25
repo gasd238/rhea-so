@@ -4,6 +4,8 @@ Hello My name is JeongHyeon Kim, I am a developer working at `GameSpring`
 
 I'm Love `MicroService Architecture`, `FOSS`
 
+![soldierDate](http://goonba.xyz/?endDate=20231114)
+
 ### Career
 
 | **Type** | **Date** | **Contents** | **Organization** |
