@@ -1,4 +1,4 @@
-![Main.jpeg](./Main.jpeg)
+<p align="center"><img src="/3472388487351343141_20190916194621643.jpg" /></p>
 
 Hello My name is JeongHyeon Kim, I am a developer working at `GameSpring`
 
